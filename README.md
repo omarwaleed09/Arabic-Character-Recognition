@@ -1,2 +1,32 @@
-# Arabic-Character-Recognition
-Arabic Character Recognition using machine learning. Trained multiple models (Neural Network, SVM) to classify Arabic handwritten characters. Includes data preprocessing, k-fold cross-validation, evaluation metrics (accuracy, confusion matrix), and prediction on unseen data.
+# 📝 Arabic Character Recognition
+
+A machine learning project for recognizing handwritten Arabic characters — clean, simple, and focused on results.
+
+## 🔍 What’s Inside
+
+- Preprocessing and normalization of Arabic character data  
+- Model training with:
+  - ✅ Neural Networks (with k-fold cross-validation)
+  - ✅ Support Vector Machine (SVM)
+- Performance evaluation:
+  - 📊 Accuracy
+  - 📉 Confusion Matrix
+- Final prediction on unseen data
+
+## 🛠️ Tech Stack
+
+- Python
+- TensorFlow / Keras
+- scikit-learn
+- NumPy, Pandas
+- Matplotlib
+
+## 📁 Project Structure
+
+- `data/` — Arabic character dataset  
+- `./` — main Jupyter notebook with full pipeline
+
+---
+
+Feel free to explore, run the models, and test predictions on your own samples.  
+Perfect as a starting point for deeper Arabic OCR or computer vision projects.
